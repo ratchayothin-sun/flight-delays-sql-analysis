@@ -1,0 +1,4 @@
+departure_status,flights,arrived_late_pct,avg_minutes_gained_in_air,avg_departure_delay_min,avg_arrival_delay_min
+1. Left early,3270517,2.92,-4.88,-4.8,-9.68
+2. Left 0-14 min late,1393069,9.85,-5.16,4.51,-0.66
+3. Left 15+ min late,1050422,79.09,-4.54,59.53,54.99

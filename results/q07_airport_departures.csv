@@ -1,0 +1,81 @@
+airport,airport_name,city,state,scheduled_departures,departed_late_pct,cancel_pct,mean_departure_delay_min
+BWI,Baltimore-Washington International Airport,Baltimore,MD,94101,24.04,1.65,12.89
+MDW,Chicago Midway International Airport,Chicago,IL,88503,23.83,2.22,12.16
+ORD,Chicago O'Hare International Airport,Chicago,IL,313536,23.34,2.74,13.31
+DAL,Dallas Love Field,Dallas,TX,65629,23.29,1.37,11.88
+HOU,William P. Hobby Airport,Houston,TX,56760,23.23,1.41,11.83
+EWR,Newark Liberty International Airport,Newark,NJ,111394,23.21,2.88,13.18
+MIA,Miami International Airport,Miami,FL,75299,22.58,1.06,11.97
+DEN,Denver International Airport,Denver,CO,214191,22.17,1.01,11.33
+LGA,LaGuardia Airport (Marine Air Terminal),New York,NY,108195,21.97,4.3,12.76
+PBI,Palm Beach International Airport,West Palm Beach,FL,24315,21.77,1.48,11.79
+DFW,Dallas/Fort Worth International Airport,Dallas-Fort Worth,TX,260595,21.36,2.56,11.16
+LAS,McCarran International Airport,Las Vegas,NV,145869,21.06,0.66,10.57
+IAH,George Bush Intercontinental Airport,Houston,TX,159833,20.77,1.39,11.24
+LAX,Los Angeles International Airport,Los Angeles,CA,212401,20.5,1.05,10.22
+JFK,John F. Kennedy International Airport (New York International Airport),New York,NY,102114,20.49,1.91,11.76
+SFO,San Francisco International Airport,San Francisco,CA,162178,20.31,1.36,10.76
+OAK,Oakland International Airport,Oakland,CA,46332,20.23,1.28,9.13
+MCO,Orlando International Airport,Orlando,FL,120029,20.22,0.95,11.51
+IAD,Washington Dulles International Airport,Chantilly,VA,37301,20.15,1.52,12.23
+FLL,Fort Lauderdale-Hollywood International Airport,Ft. Lauderdale,FL,79436,20.12,1.05,10.47
+SJU,Luis Muñoz Marín International Airport,San Juan,PR,26524,19.6,0.74,9.84
+STL,St. Louis International Airport at Lambert Field,St Louis,MO,51277,18.92,1.29,9.1
+PHL,Philadelphia International Airport,Philadelphia,PA,72115,18.65,1.52,10.07
+XNA,Northwest Arkansas Regional Airport,Fayetteville/Springdale/Rogers,AR,10224,18.38,2.96,11.19
+PHX,Phoenix Sky Harbor International Airport,Phoenix,AZ,159736,18.32,0.58,8.34
+TPA,Tampa International Airport,Tampa,FL,69049,18.15,0.92,9.74
+BNA,Nashville International Airport,Nashville,TN,52057,18.08,2.09,9.45
+ABQ,Albuquerque International Sunport,Albuquerque,NM,21008,18.06,1.04,8.62
+BOS,Gen. Edward Lawrence Logan International Airport,Boston,MA,118011,17.96,2.29,9.21
+RSW,Southwest Florida International Airport,Ft. Myers,FL,29116,17.67,1.14,8.39
+AUS,Austin-Bergstrom International Airport,Austin,TX,46088,17.57,1.56,10.02
+SAN,San Diego International Airport (Lindbergh Field),San Diego,CA,76416,17.52,1.05,7.98
+ONT,Ontario International Airport,Ontario,CA,19720,17.52,0.95,8.11
+ATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,GA,379424,17.33,0.68,8.9
+RDU,Raleigh-Durham International Airport,Raleigh,NC,34898,17.09,2.16,9.26
+RIC,Richmond International Airport,Richmond,VA,17002,17.07,2.56,9.74
+CMH,Port Columbus International Airport,Columbus,OH,26375,17.03,2.07,9.19
+RNO,Reno/Tahoe International Airport,Reno,NV,14155,16.92,0.97,7.68
+CLT,Charlotte Douglas International Airport,Charlotte,NC,109896,16.86,1.0,8.11
+SMF,Sacramento International Airport,Sacramento,CA,40830,16.71,0.92,7.72
+SJC,Norman Y. Mineta San José International Airport,San Jose,CA,41681,16.61,1.09,7.07
+LIT,Bill and Hillary Clinton National Airport (Adams Field),Little Rock,AR,11470,16.58,2.41,9.05
+MSY,Louis Armstrong New Orleans International Airport,New Orleans,LA,42467,16.55,0.99,8.39
+DTW,Detroit Metropolitan Airport,Detroit,MI,118425,16.47,1.09,8.79
+CVG,Cincinnati/Northern Kentucky International Airport,Covington,KY,21950,16.18,2.36,8.83
+SDF,Louisville International Airport (Standiford Field),Louisville,KY,11047,16.15,2.1,8.4
+OKC,Will Rogers World Airport,Oklahoma City,OK,17785,16.14,1.75,8.23
+ORF,Norfolk International Airport,Norfolk,VA,10288,16.08,2.57,9.22
+MCI,Kansas City International Airport,Kansas City,MO,42220,16.08,1.08,8.0
+SAT,San Antonio International Airport,San Antonio,TX,32412,16.01,1.08,7.39
+MEM,Memphis International Airport,Memphis,TN,16290,15.99,2.17,8.37
+JAX,Jacksonville International Airport,Jacksonville,FL,19750,15.99,1.1,8.07
+ELP,El Paso International Airport,El Paso,TX,13018,15.91,1.04,7.8
+CLE,Cleveland Hopkins International Airport,Cleveland,OH,37813,15.8,1.99,8.1
+BHM,Birmingham-Shuttlesworth International Airport,Birmingham,AL,13660,15.8,1.35,8.85
+DCA,Ronald Reagan Washington National Airport,Arlington,VA,80613,15.65,2.58,7.74
+IND,Indianapolis International Airport,Indianapolis,IN,27931,15.57,1.61,7.83
+TUL,Tulsa International Airport,Tulsa,OK,15289,15.54,1.56,7.24
+CHS,Charleston International Airport/Charleston AFB,Charleston,SC,13024,15.52,1.81,8.33
+MKE,General Mitchell International Airport,Milwaukee,WI,32467,15.49,1.8,7.32
+BOI,Boise Airport (Boise Air Terminal),Boise,ID,12815,15.33,0.81,8.43
+SNA,John Wayne Airport (Orange County Airport),Santa Ana,CA,40729,15.3,0.98,6.31
+SEA,Seattle-Tacoma International Airport,Seattle,WA,121287,15.22,0.39,6.54
+OMA,Eppley Airfield,Omaha,NE,18254,15.14,1.48,7.38
+BDL,Bradley International Airport,Windsor Locks,CT,20513,14.96,1.79,7.14
+GRR,Gerald R. Ford International Airport,Grand Rapids,MI,11773,14.92,2.39,7.15
+BUF,Buffalo Niagara International Airport,Buffalo,NY,18417,14.77,1.76,6.87
+PVD,Theodore Francis Green State Airport,Providence,RI,12156,14.69,2.25,7.25
+MSP,Minneapolis-Saint Paul International Airport,Minneapolis,MN,122701,14.67,0.67,6.91
+TUS,Tucson International Airport,Tucson,AZ,16428,14.47,1.0,5.63
+BUR,Bob Hope Airport (Hollywood Burbank Airport),Burbank,CA,20657,14.4,1.59,5.73
+PIT,Pittsburgh International Airport,Pittsburgh,PA,26249,13.76,1.49,6.31
+PDX,Portland International Airport,Portland,OR,51635,13.0,0.42,5.05
+SLC,Salt Lake City International Airport,Salt Lake City,UT,105973,12.36,0.38,4.48
+GEG,Spokane International Airport,Spokane,WA,10333,12.07,0.49,4.9
+ANC,Ted Stevens Anchorage International Airport,Anchorage,AK,17239,11.88,0.75,3.25
+OGG,Kahului Airport,Kahului,HI,22450,11.32,0.6,3.48
+HNL,Honolulu International Airport,Honolulu,HI,46952,8.9,0.4,2.64
+KOA,Kona International Airport at Keahole,Kailua/Kona,HI,12081,8.83,0.33,1.34
+LIH,Lihue Airport,Lihue,HI,11426,8.34,0.39,0.59

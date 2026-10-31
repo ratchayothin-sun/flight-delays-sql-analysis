@@ -1,0 +1,4 @@
+competition,route_months,scheduled_flights,late_pct,cancel_pct
+1 airline,31128,2226401,17.72,1.68
+2 airlines,10732,1643160,18.47,1.53
+3+ airlines,6937,1949518,19.74,1.41

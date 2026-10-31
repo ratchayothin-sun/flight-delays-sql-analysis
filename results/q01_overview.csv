@@ -1,0 +1,2 @@
+scheduled_flights,completed_flights,late_flights,late_pct,late30_pct,cancel_pct,divert_pct,problem_pct,mean_arrival_delay_min,early_arrival_pct
+5819079,5714008,1063439,18.61,11.39,1.54,0.26,20.08,4.41,61.27

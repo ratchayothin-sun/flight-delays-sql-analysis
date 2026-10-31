@@ -1,0 +1,15 @@
+airline,airline_name,late_flights,late_aircraft_pct,air_system_pct,airline_pct,weather_pct,security_pct
+HA,Hawaiian Airlines Inc.,8618,37.13,1.83,57.57,3.35,0.12
+DL,Delta Air Lines Inc.,118023,29.55,24.61,37.45,8.34,0.05
+AA,American Airlines Inc.,130279,36.18,22.48,35.17,5.97,0.21
+US,US Airways Inc.,36549,28.46,32.75,34.62,3.84,0.34
+EV,Atlantic Southeast Airlines,109184,38.38,24.64,34.51,2.47,0.0
+UA,United Air Lines Inc.,104722,40.21,22.29,32.68,4.8,0.02
+AS,Alaska Airlines Inc.,22352,35.48,28.05,32.32,3.61,0.54
+OO,Skywest Airlines Inc.,107795,44.09,20.5,31.41,3.85,0.15
+WN,Southwest Airlines Co.,236626,51.03,13.49,30.97,4.41,0.1
+B6,JetBlue Airways,59175,39.26,27.46,29.75,3.21,0.32
+MQ,American Eagle Airlines Inc.,60547,37.17,24.42,27.67,10.55,0.18
+F9,Frontier Airlines Inc.,23570,40.03,36.7,21.91,1.36,0.0
+NK,Spirit Air Lines,34221,32.42,43.52,21.78,2.04,0.24
+VX,Virgin America,11778,38.53,36.16,19.71,5.32,0.28

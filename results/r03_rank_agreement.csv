@@ -1,0 +1,8 @@
+spec,airlines_compared,rank_correlation_with_main,same_sign_as_main
+main: same route + month,14,1.0,14
+finer: route + month + time of day,14,0.981,14
+stricter: 2.5x minimum flights per side,14,0.796,13
+late = 30+ min instead of 15+,14,0.928,12
+without October (rebuilt airport codes),14,0.999,14
+first half-year (Jan-Jun),14,0.981,13
+second half-year (Jul-Dec),13,0.956,13

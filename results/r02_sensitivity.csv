@@ -1,0 +1,98 @@
+airline,spec,comparable_flights,coverage_pct,diff_late_pp,diff_problem_pp,rank_late
+AA,main: same route + month,446526,62.63,-3.63,-3.36,3
+AS,main: same route + month,114456,66.76,-6.08,-6.31,2
+B6,main: same route + month,168761,64.4,3.82,3.7,11
+DL,main: same route + month,633325,72.77,-6.91,-7.53,1
+EV,main: same route + month,235608,42.47,1.5,1.64,8
+F9,main: same route + month,74138,82.29,7.27,6.88,13
+HA,main: same route + month,10019,13.18,4.21,3.95,12
+MQ,main: same route + month,152358,54.65,-0.49,0.92,7
+NK,main: same route + month,91379,79.33,12.65,12.89,14
+OO,main: same route + month,233606,40.5,1.81,1.98,9
+UA,main: same route + month,428407,84.37,-1.71,-1.82,6
+US,main: same route + month,118678,61.1,-3.63,-3.64,4
+VX,main: same route + month,60927,99.48,-2.28,-2.7,5
+WN,main: same route + month,484241,38.98,2.24,2.5,10
+AA,finer: route + month + time of day,335933,47.12,-3.69,-3.38,4
+AS,finer: route + month + time of day,98571,57.5,-5.89,-6.08,2
+B6,finer: route + month + time of day,137457,52.46,3.64,3.5,12
+DL,finer: route + month + time of day,487023,55.96,-6.11,-6.76,1
+EV,finer: route + month + time of day,119572,21.55,1.69,1.68,9
+F9,finer: route + month + time of day,61790,68.59,6.69,6.32,13
+HA,finer: route + month + time of day,8861,11.65,2.28,2.02,10
+MQ,finer: route + month + time of day,104733,37.57,-0.01,1.38,7
+NK,finer: route + month + time of day,79871,69.34,12.28,12.51,14
+OO,finer: route + month + time of day,154110,26.72,1.42,1.48,8
+UA,finer: route + month + time of day,329625,64.92,-0.79,-0.88,6
+US,finer: route + month + time of day,94443,48.63,-3.91,-3.85,3
+VX,finer: route + month + time of day,56618,92.44,-2.03,-2.47,5
+WN,finer: route + month + time of day,395872,31.86,3.03,3.35,11
+AA,stricter: 2.5x minimum flights per side,342115,47.99,-3.81,-3.54,5
+AS,stricter: 2.5x minimum flights per side,90089,52.55,-5.63,-5.77,2
+B6,stricter: 2.5x minimum flights per side,128072,48.87,3.74,3.58,12
+DL,stricter: 2.5x minimum flights per side,516636,59.36,-6.2,-6.85,1
+EV,stricter: 2.5x minimum flights per side,116219,20.95,1.9,2.0,10
+F9,stricter: 2.5x minimum flights per side,34957,38.8,5.17,4.73,13
+HA,stricter: 2.5x minimum flights per side,2481,3.26,-4.64,-5.06,3
+MQ,stricter: 2.5x minimum flights per side,114008,40.89,-0.4,1.04,8
+NK,stricter: 2.5x minimum flights per side,42794,37.15,11.83,11.96,14
+OO,stricter: 2.5x minimum flights per side,144743,25.09,1.21,1.33,9
+UA,stricter: 2.5x minimum flights per side,323699,63.75,-1.03,-1.14,7
+US,stricter: 2.5x minimum flights per side,100001,51.49,-4.07,-4.05,4
+VX,stricter: 2.5x minimum flights per side,53927,88.05,-2.12,-2.58,6
+WN,stricter: 2.5x minimum flights per side,407834,32.83,3.13,3.47,11
+AA,late = 30+ min instead of 15+,446526,62.63,-2.66,-3.36,4
+AS,late = 30+ min instead of 15+,114456,66.76,-3.95,-6.31,2
+B6,late = 30+ min instead of 15+,168761,64.4,2.42,3.7,12
+DL,late = 30+ min instead of 15+,633325,72.77,-4.64,-7.53,1
+EV,late = 30+ min instead of 15+,235608,42.47,0.88,1.64,9
+F9,late = 30+ min instead of 15+,74138,82.29,5.14,6.88,13
+HA,late = 30+ min instead of 15+,10019,13.18,-0.61,3.95,7
+MQ,late = 30+ min instead of 15+,152358,54.65,0.21,0.92,8
+NK,late = 30+ min instead of 15+,91379,79.33,9.4,12.89,14
+OO,late = 30+ min instead of 15+,233606,40.5,1.42,1.98,11
+UA,late = 30+ min instead of 15+,428407,84.37,-0.88,-1.82,6
+US,late = 30+ min instead of 15+,118678,61.1,-3.11,-3.64,3
+VX,late = 30+ min instead of 15+,60927,99.48,-1.72,-2.7,5
+WN,late = 30+ min instead of 15+,484241,38.98,0.91,2.5,10
+AA,without October (rebuilt airport codes),399506,62.76,-3.93,-3.68,3
+AS,without October (rebuilt airport codes),104454,66.52,-6.35,-6.58,2
+B6,without October (rebuilt airport codes),155837,64.85,3.59,3.45,11
+DL,without October (rebuilt airport codes),579517,72.91,-6.99,-7.63,1
+EV,without October (rebuilt airport codes),216420,42.47,1.37,1.52,8
+F9,without October (rebuilt airport codes),67416,82.21,7.65,7.24,13
+HA,without October (rebuilt airport codes),9215,13.2,3.95,3.68,12
+MQ,without October (rebuilt airport codes),139686,54.33,-0.24,1.27,7
+NK,without October (rebuilt airport codes),83095,79.09,12.87,13.13,14
+OO,without October (rebuilt airport codes),213714,40.45,1.7,1.88,9
+UA,without October (rebuilt airport codes),389032,84.19,-1.56,-1.67,6
+US,without October (rebuilt airport codes),118678,61.1,-3.63,-3.64,4
+VX,without October (rebuilt airport codes),55528,99.49,-2.68,-3.13,5
+WN,without October (rebuilt airport codes),443790,38.99,2.48,2.75,10
+AA,first half-year (Jan-Jun),163496,63.84,-4.1,-3.72,3
+AS,first half-year (Jan-Jun),51651,62.34,-5.27,-5.49,2
+B6,first half-year (Jan-Jun),84695,66.53,2.09,1.86,10
+DL,first half-year (Jan-Jun),309704,73.85,-6.69,-7.43,1
+EV,first half-year (Jan-Jun),124856,43.78,1.01,1.13,7
+F9,first half-year (Jan-Jun),33770,79.86,10.15,9.73,13
+HA,first half-year (Jan-Jun),4855,12.9,3.86,3.48,12
+MQ,first half-year (Jan-Jun),77105,51.49,1.8,3.53,9
+NK,first half-year (Jan-Jun),42195,77.79,13.54,13.77,14
+OO,first half-year (Jan-Jun),118897,41.69,1.16,1.3,8
+UA,first half-year (Jan-Jun),205356,83.86,-1.17,-1.24,6
+US,first half-year (Jan-Jun),118678,61.1,-3.63,-3.64,4
+VX,first half-year (Jan-Jun),28579,99.18,-3.42,-4.02,5
+WN,first half-year (Jan-Jun),235539,38.57,2.15,2.48,11
+AA,second half-year (Jul-Dec),283030,61.95,-3.36,-3.15,3
+AS,second half-year (Jul-Dec),62805,70.89,-6.75,-6.99,2
+B6,second half-year (Jul-Dec),84066,62.39,5.56,5.59,12
+DL,second half-year (Jul-Dec),323621,71.77,-7.13,-7.63,1
+EV,second half-year (Jul-Dec),110752,41.09,2.05,2.23,7
+F9,second half-year (Jul-Dec),40368,84.45,4.86,4.48,11
+HA,second half-year (Jul-Dec),5164,13.45,4.54,4.4,10
+MQ,second half-year (Jul-Dec),75253,58.32,-2.83,-1.87,4
+NK,second half-year (Jul-Dec),49184,80.69,11.89,12.13,13
+OO,second half-year (Jul-Dec),114709,39.34,2.48,2.7,9
+UA,second half-year (Jul-Dec),223051,84.85,-2.2,-2.37,5
+VX,second half-year (Jul-Dec),32348,99.74,-1.27,-1.54,6
+WN,second half-year (Jul-Dec),248702,39.37,2.33,2.51,8

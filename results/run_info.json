@@ -1,0 +1,20 @@
+{
+  "input_file": "flights.csv",
+  "rows_loaded": 5819079,
+  "full_file_rows": 5819079,
+  "is_full_file": true,
+  "thresholds": {
+    "scale": 1.0,
+    "min_side": 20,
+    "min_airport": 10000,
+    "min_route": 5000
+  },
+  "timings_seconds": {
+    "load_s": 39.6,
+    "clean_s": 85.5,
+    "analysis_s": 129.0,
+    "total_s": 254.5
+  },
+  "peak_memory_mb": null,
+  "db_size_mb": 879.0
+}

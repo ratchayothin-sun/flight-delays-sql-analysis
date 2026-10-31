@@ -1,0 +1,15 @@
+airline,airline_name,scheduled_flights,comparable_completed_flights,coverage_pct,raw_late_pct,own_late_pct,others_late_pct,diff_late_pp,own_problem_pct,others_problem_pct,diff_problem_pp,fair_rank_late,fair_rank_problem
+DL,Delta Air Lines Inc.,875881,633325,72.8,13.56,14.14,21.05,-6.91,14.72,22.25,-7.53,1,1
+AS,Alaska Airlines Inc.,172521,114456,66.8,13.04,13.18,19.26,-6.08,13.52,19.83,-6.31,2,2
+AA,American Airlines Inc.,725984,446526,62.6,18.27,18.45,22.08,-3.63,19.93,23.3,-3.36,3,4
+US,US Airways Inc.,198715,118678,61.1,18.82,18.52,22.15,-3.63,20.4,24.05,-3.64,4,3
+VX,Virgin America,61903,60927,99.5,19.23,19.26,21.54,-2.28,20.1,22.81,-2.7,5,5
+UA,United Air Lines Inc.,515723,428407,84.4,20.62,20.75,22.46,-1.71,21.92,23.74,-1.82,6,6
+MQ,American Eagle Airlines Inc.,294632,152358,54.6,21.72,22.03,22.52,-0.49,26.31,25.39,0.92,7,7
+EV,Atlantic Southeast Airlines,571977,235608,42.5,19.68,20.13,18.63,1.5,22.32,20.68,1.64,8,8
+OO,Skywest Airlines Inc.,588353,233606,40.5,18.69,20.55,18.75,1.81,21.93,19.95,1.98,9,9
+WN,Southwest Airlines Co.,1261855,484241,39.0,19.05,20.16,17.92,2.24,21.3,18.8,2.5,10,10
+B6,JetBlue Airways,267048,168761,64.4,22.58,23.57,19.75,3.82,24.99,21.29,3.7,11,11
+HA,Hawaiian Airlines Inc.,76272,10019,13.2,11.33,20.11,15.9,4.21,20.48,16.53,3.95,12,12
+F9,Frontier Airlines Inc.,90836,74138,82.3,26.16,26.3,19.04,7.27,26.82,19.94,6.88,13,13
+NK,Spirit Air Lines,117379,91379,79.3,29.71,31.01,18.36,12.65,32.3,19.41,12.89,14,14

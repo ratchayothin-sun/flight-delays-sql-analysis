@@ -1,0 +1,16 @@
+check_name,value,expected
+scheduled flights loaded,5819079,
+cancelled flights that still have an arrival delay,0,0.0
+diverted flights that still have an arrival delay,0,0.0
+completed flights with NO arrival delay,0,0.0
+late flights whose five causes do not add up to the arrival delay,0,0.0
+flights under 15 min late that still carry a cause,0,0.0
+cancelled flights without a cancellation reason,0,0.0
+flights both cancelled and diverted,0,0.0
+"duplicate flights (same airline, number, date, route, scheduled time)",0,0.0
+October rows (numeric airport IDs),486165,
+numeric IDs mapped to an airport code,301,
+October rows with BOTH airports identified,485467,
+rows with an unidentified airport (all in October),698,
+airport codes in flights but missing from airports.csv,0,0.0
+airline codes in flights but missing from airlines.csv,0,0.0

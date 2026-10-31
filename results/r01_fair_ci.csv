@@ -1,0 +1,15 @@
+airline,comparable_flights,coverage_pct,diff_late_pp,diff_problem_pp,rank_late,airport_pairs,late_lo,late_hi,problem_lo,problem_hi,late_clear,problem_clear
+DL,633325,72.77,-6.91,-7.53,1,289,-7.79,-6.04,-8.38,-6.68,better than others,better than others
+AS,114456,66.76,-6.08,-6.31,2,67,-7.32,-4.91,-7.55,-5.15,better than others,better than others
+AA,446526,62.63,-3.63,-3.36,3,191,-4.45,-2.71,-4.21,-2.43,better than others,better than others
+US,118678,61.1,-3.63,-3.64,4,83,-4.84,-2.3,-4.87,-2.25,better than others,better than others
+VX,60927,99.48,-2.28,-2.7,5,33,-4.04,-0.74,-4.36,-1.11,better than others,better than others
+UA,428407,84.37,-1.71,-1.82,6,214,-3.05,-0.53,-3.18,-0.66,better than others,better than others
+MQ,152358,54.65,-0.49,0.92,7,119,-1.41,0.58,-0.05,2.09,not clearly different,not clearly different
+EV,235608,42.47,1.5,1.64,8,327,0.5,2.49,0.6,2.65,worse than others,worse than others
+OO,233606,40.5,1.81,1.98,9,297,0.86,2.72,0.95,2.95,worse than others,worse than others
+WN,484241,38.98,2.24,2.5,10,243,1.25,3.1,1.47,3.41,worse than others,worse than others
+B6,168761,64.4,3.82,3.7,11,98,2.56,5.08,2.35,5.01,worse than others,worse than others
+HA,10019,13.18,4.21,3.95,12,13,-0.26,9.31,-0.56,9.01,not clearly different,not clearly different
+F9,74138,82.29,7.27,6.88,13,101,5.68,8.84,5.26,8.45,worse than others,worse than others
+NK,91379,79.33,12.65,12.89,14,121,11.13,14.06,11.31,14.37,worse than others,worse than others

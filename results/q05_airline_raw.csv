@@ -1,0 +1,15 @@
+airline,airline_name,scheduled_flights,completed_flights,late_pct,cancel_pct,divert_pct,problem_pct,mean_arrival_delay_min,avg_distance_mi,raw_rank_late
+HA,Hawaiian Airlines Inc.,76272,76041,11.33,0.22,0.079,11.6,2.02,633.0,1
+AS,Alaska Airlines Inc.,172521,171439,13.04,0.39,0.239,13.58,-0.98,1197.0,2
+DL,Delta Air Lines Inc.,875881,870275,13.56,0.44,0.203,14.11,0.19,854.0,3
+AA,American Airlines Inc.,725984,712935,18.27,1.5,0.293,19.74,3.45,1041.0,4
+OO,Skywest Airlines Inc.,588353,576814,18.69,1.69,0.268,20.28,5.85,497.0,5
+US,US Airways Inc.,198715,194223,18.82,2.05,0.214,20.65,3.71,912.0,6
+WN,Southwest Airlines Co.,1261855,1242403,19.05,1.27,0.27,20.29,4.37,741.0,7
+VX,Virgin America,61903,61248,19.23,0.86,0.195,20.08,4.74,1406.0,8
+EV,Atlantic Southeast Airlines,571977,554752,19.68,2.66,0.349,22.1,6.59,462.0,9
+UA,United Air Lines Inc.,515723,507762,20.62,1.27,0.269,21.85,5.43,1272.0,10
+MQ,American Eagle Airlines Inc.,294632,278791,21.72,5.1,0.277,25.93,6.46,422.0,11
+B6,JetBlue Airways,267048,262042,22.58,1.6,0.273,24.03,6.68,1062.0,12
+F9,Frontier Airlines Inc.,90836,90090,26.16,0.65,0.174,26.77,12.5,967.0,13
+NK,Spirit Air Lines,117379,115193,29.71,1.71,0.155,31.02,14.47,985.0,14

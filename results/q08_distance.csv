@@ -1,0 +1,4 @@
+distance_bucket,scheduled_flights,late_pct,cancel_pct,problem_pct
+1. Short (under 500 mi),2120155,18.21,2.01,19.99
+"2. Medium (500-1,499 mi)",2911021,18.97,1.41,20.36
+"3. Long (1,500+ mi)",787903,18.38,0.79,19.31
